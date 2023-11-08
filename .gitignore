@@ -7,5 +7,4 @@ build/
 js/
 .vscode
 coverage
-package-lock.json
 /examples/browserify/bundle.js
